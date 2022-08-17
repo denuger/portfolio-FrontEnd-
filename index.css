@@ -1,0 +1,19 @@
+@-ms-viewport{
+	width: device-width;
+}
+
+.titulo{
+	margin-top: 10rem;
+}
+
+.animacion{
+	margin-top: 10rem;
+	text-align: center;
+}
+
+.contenedor-icono{
+	margin-top: 4rem;
+	
+	text-align: end;
+}
+
