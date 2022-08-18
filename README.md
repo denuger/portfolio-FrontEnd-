@@ -1,7 +1,7 @@
 
 Español
 
-Este proyecto es llevado a cabo dentro del marco del curso Argentina Programa. En el mismo la práctica consiste en 
+Este proyecto es llevado a cabo en el marco del curso Argentina Programa. En el mismo la práctica consiste en 
 armar nuestro propio Portfolio Web, para luego ser utilizado a la hora de aplicar a trabajos, pudiendo así mostrar
 con un ejemplo concreto los conocimientos adquiridos. 
 

@@ -2,8 +2,34 @@
 	width: device-width;
 }
 
+body{
+	/*background: #2980b9;  /* fallback for old browsers */
+   	/*background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+	/*background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+
+	/*background: #1e3c72;  /* fallback for old browsers */
+	/*background: -webkit-linear-gradient(to right, #2a5298, #1e3c72);  /* Chrome 10-25, Safari 5.1-6 */
+	/*background: linear-gradient(to right, #2a5298, #1e3c72); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	background: #abbaab;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.navbar{
+	background: #abbaab;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
 .titulo{
 	margin-top: 10rem;
+	fill: rgb(39, 39, 39);
+}
+
+.ptitulo{
+	padding-top: 1.5rem;
 }
 
 .animacion{
@@ -12,8 +38,39 @@
 }
 
 .contenedor-icono{
-	margin-top: 4rem;
+	margin-top: 2.5rem;
 	
 	text-align: end;
 }
 
+.subtitulo{
+	text-align: center;;
+	margin-top: 8rem;
+	margin-bottom: 4rem; 
+	font-size: 2rem;
+}
+
+.texto-aboutme{
+	margin-left: 2rem;
+	font-size: 16px;
+	font-weight: bold;
+	color: rgb(116, 116, 116);
+
+}
+
+.texto-contacto{
+	text-align: center;
+	padding-left: 15rem;
+	padding-right: 15rem;
+
+}
+
+.dboton{
+	margin-top: 4rem;
+	text-align: center;
+}
+
+.footer{
+	margin-top: 8rem;
+	margin-bottom: 1.5rem;
+}
